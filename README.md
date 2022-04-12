@@ -14,7 +14,7 @@ Other studies and knowledge: Data Science (Python). M.Digital(SEO - SEM) Data St
 
 ## 🔗 Links
 
-[![linkedin](https://www.linkedin.com/in/castrofeijoopedro/)!]
+[![Linkedin]((https://www.linkedin.com/in/castrofeijoopedro/)]
 
 
 ## 🛠 Skills
