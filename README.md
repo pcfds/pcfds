@@ -1,7 +1,12 @@
 
-# Project Title
+#Pedro Castro Feijoo
 
-A brief description of what this project does and who it's for
+Founder and Ecommerce Manager at Somos Riders (B2C Ecommerce in Argentina). 
+Full-Stack Developer student at #CertifiedTechDeveloper by Mercado Libre, Globant and Digital House. 
+BackEnd: Working on API REST Proyects in Intellij IDEA with Spring Boot (MVC, MYSQL and H2 DataBase) for the last year.
+#Frontend: minor experiencie in Javascript, HTML, Css, Sass, and React. 
+
+Other studies and knowledge: Data Science (Python). M.Digital(SEO - SEM) Data Studio, Power BI and Tableau. DAO Education - Blockchain and decentralization. 
 
 
 ## Acknowledgements
@@ -15,31 +20,15 @@ A brief description of what this project does and who it's for
 I'm a full stack developer...
 
 
-# Hi, I'm Katherine! 👋
+# Hi, I'm Pedro! 👋
 
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
 
-🧠 I'm currently learning...
-
-👯‍♀️ I'm looking to collaborate on...
-
-🤔 I'm looking for help with...
-
-💬 Ask me about...
-
-📫 How to reach me...
-
-😄 Pronouns...
-
-⚡️ Fun fact...
 
 
 ## 🛠 Skills
