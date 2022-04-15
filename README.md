@@ -18,4 +18,4 @@ Other studies and knowledge: Data Science (Python). M.Digital(SEO - SEM) Data St
 
 
 ## 🛠 Skills
-JAVA, Spring BOOT, Intellij IDea, GIt, GitHubm Javascript, HTML, CSS, React. 
+JAVA, Spring BOOT MVC, Intellij IDea, Junit, Mysql, GIt, GitHub, Javascript, HTML, CSS, React. 
